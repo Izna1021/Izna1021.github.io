@@ -1,5 +1,5 @@
 This is my portfolio website.
-Credits:
+Credits
  	HTML5 UP
 
 	Demo Images:
